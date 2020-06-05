@@ -1,0 +1,14 @@
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\bin\Debug\netcoreapp3.1\VotingPlatformFacade.deps.json
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\bin\Debug\netcoreapp3.1\VotingPlatformFacade.dll
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\bin\Debug\netcoreapp3.1\VotingPlatformFacade.pdb
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\bin\Debug\netcoreapp3.1\VotingPlatformDomain.dll
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\bin\Debug\netcoreapp3.1\VotingPlatformModel.dll
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\bin\Debug\netcoreapp3.1\VotingPlatformDomain.pdb
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\bin\Debug\netcoreapp3.1\VotingPlatformModel.pdb
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\obj\Debug\netcoreapp3.1\VotingPlatformFacade.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\obj\Debug\netcoreapp3.1\VotingPlatformFacade.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\obj\Debug\netcoreapp3.1\VotingPlatformFacade.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\obj\Debug\netcoreapp3.1\VotingPlatformFacade.AssemblyInfo.cs
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\obj\Debug\netcoreapp3.1\VotingPlatformFacade.csproj.CopyComplete
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\obj\Debug\netcoreapp3.1\VotingPlatformFacade.dll
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformFacade\obj\Debug\netcoreapp3.1\VotingPlatformFacade.pdb

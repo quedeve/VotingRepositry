@@ -1,0 +1,9 @@
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformDomain\bin\Release\netcoreapp3.1\VotingPlatformDomain.deps.json
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformDomain\bin\Release\netcoreapp3.1\VotingPlatformDomain.dll
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformDomain\bin\Release\netcoreapp3.1\VotingPlatformDomain.pdb
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformDomain\obj\Release\netcoreapp3.1\VotingPlatformDomain.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformDomain\obj\Release\netcoreapp3.1\VotingPlatformDomain.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformDomain\obj\Release\netcoreapp3.1\VotingPlatformDomain.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformDomain\obj\Release\netcoreapp3.1\VotingPlatformDomain.AssemblyInfo.cs
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformDomain\obj\Release\netcoreapp3.1\VotingPlatformDomain.dll
+C:\Users\victo\source\repos\VotingPlatform\VotingPlatformDomain\obj\Release\netcoreapp3.1\VotingPlatformDomain.pdb

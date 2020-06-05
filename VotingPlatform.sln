@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingPlatform", "VotingPlatform\VotingPlatform.csproj", "{09970742-50BC-4ED1-ADFA-7368DFC9F5BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{72E92850-DF3D-48C7-A4DD-8CD709569549}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{A6839658-485A-4C9A-B6F8-EAAFB3700147}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{967F46D3-7B62-4FB7-97B4-2DB42E514C58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{A484F834-F765-44EE-B55F-43923F467F17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingPlatformDomain", "VotingPlatformDomain\VotingPlatformDomain.csproj", "{59EB9A08-F551-4EB3-A412-480A70556611}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingPlatformModel", "VotingPlatformModel\VotingPlatformModel.csproj", "{A6D3F806-B834-4E19-9AB9-19EDE1F60525}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Facade", "Facade", "{E8895EB6-CEA4-4D08-924E-A458C35E0362}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingPlatformFacade", "VotingPlatformFacade\VotingPlatformFacade.csproj", "{8AF7AB72-EFE3-4469-8CE0-43F87B4F6B87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingPlatformAdminUI", "VotingPlatformAdminUI\VotingPlatformAdminUI.csproj", "{1840B003-0B7D-430A-A663-AB8D2B9B59BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingPlatformUserUI", "VotingPlatformUserUI\VotingPlatformUserUI.csproj", "{5622B288-DDCE-48A0-8312-7CA6CC676F62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{B1AC505A-C0CD-441D-A478-F73926D482C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingPlatformTest", "VotingPlatformTest\VotingPlatformTest.csproj", "{96A83E86-A47D-4CD4-87FF-6A302DAFB940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09970742-50BC-4ED1-ADFA-7368DFC9F5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09970742-50BC-4ED1-ADFA-7368DFC9F5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09970742-50BC-4ED1-ADFA-7368DFC9F5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09970742-50BC-4ED1-ADFA-7368DFC9F5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EB9A08-F551-4EB3-A412-480A70556611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EB9A08-F551-4EB3-A412-480A70556611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EB9A08-F551-4EB3-A412-480A70556611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EB9A08-F551-4EB3-A412-480A70556611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D3F806-B834-4E19-9AB9-19EDE1F60525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D3F806-B834-4E19-9AB9-19EDE1F60525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D3F806-B834-4E19-9AB9-19EDE1F60525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D3F806-B834-4E19-9AB9-19EDE1F60525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF7AB72-EFE3-4469-8CE0-43F87B4F6B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF7AB72-EFE3-4469-8CE0-43F87B4F6B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF7AB72-EFE3-4469-8CE0-43F87B4F6B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF7AB72-EFE3-4469-8CE0-43F87B4F6B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1840B003-0B7D-430A-A663-AB8D2B9B59BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1840B003-0B7D-430A-A663-AB8D2B9B59BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1840B003-0B7D-430A-A663-AB8D2B9B59BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1840B003-0B7D-430A-A663-AB8D2B9B59BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5622B288-DDCE-48A0-8312-7CA6CC676F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5622B288-DDCE-48A0-8312-7CA6CC676F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5622B288-DDCE-48A0-8312-7CA6CC676F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5622B288-DDCE-48A0-8312-7CA6CC676F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A83E86-A47D-4CD4-87FF-6A302DAFB940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A83E86-A47D-4CD4-87FF-6A302DAFB940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A83E86-A47D-4CD4-87FF-6A302DAFB940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A83E86-A47D-4CD4-87FF-6A302DAFB940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{09970742-50BC-4ED1-ADFA-7368DFC9F5BC} = {72E92850-DF3D-48C7-A4DD-8CD709569549}
+		{59EB9A08-F551-4EB3-A412-480A70556611} = {967F46D3-7B62-4FB7-97B4-2DB42E514C58}
+		{A6D3F806-B834-4E19-9AB9-19EDE1F60525} = {A484F834-F765-44EE-B55F-43923F467F17}
+		{8AF7AB72-EFE3-4469-8CE0-43F87B4F6B87} = {E8895EB6-CEA4-4D08-924E-A458C35E0362}
+		{1840B003-0B7D-430A-A663-AB8D2B9B59BF} = {A6839658-485A-4C9A-B6F8-EAAFB3700147}
+		{5622B288-DDCE-48A0-8312-7CA6CC676F62} = {A6839658-485A-4C9A-B6F8-EAAFB3700147}
+		{96A83E86-A47D-4CD4-87FF-6A302DAFB940} = {B1AC505A-C0CD-441D-A478-F73926D482C1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E628BE75-A6A2-46D3-A3D0-2CCEED23009A}
+	EndGlobalSection
+EndGlobal
